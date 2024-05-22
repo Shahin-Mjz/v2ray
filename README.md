@@ -1,4 +1,4 @@
-# v2ray
+# Deploy a V2Ray Proxy on a VPS
 最好用的 V2Ray 一键安装脚本 &amp; 管理脚本
 
 ### 安装或卸载
